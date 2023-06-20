@@ -14,10 +14,13 @@
         #tab2{
             width: 100%;
         }
-        
+
+		#bold{
+			font-weight : 600;
+		}
         
         #html {
-            background-color: black;
+            background-color: rgb(0,0,0);
             color: white;
             
         }
