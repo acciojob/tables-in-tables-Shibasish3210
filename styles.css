@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+ #main{
+            width: 40vw;
+            align-items: center;
+        }
+        #main, td, th {
+            border: 1px solid black;
+        }
+        #tab1, #tab3, #tab4{
+            width: 100%;
+            
+        }
+        #tab2{
+            width: 100%;
+        }
+        
+        
+        #html {
+            background-color: black;
+            color: white;
+            
+        }
+        
+        tbody  td{
+            text-align: center;
+        }
+        
+        td > table{
+            border: 1px solid black;
+
+        }
